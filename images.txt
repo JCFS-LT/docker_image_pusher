@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 collinwebdesigns/fastapi-dls
 portainer/portainer-ce:latest
+joinsunsoft/docker.ui
