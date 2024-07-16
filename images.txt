@@ -4,6 +4,11 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+#NVIDIA授权-fastapi-dls
 collinwebdesigns/fastapi-dls
+#官方portainer-ce
 portainer/portainer-ce:latest
+#中文docker管理平台
 joinsunsoft/docker.ui
+#汉化版portainer-ce,已停更
+6053537/portainer-ce
