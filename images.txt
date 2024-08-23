@@ -12,3 +12,8 @@ portainer/portainer-ce:latest
 joinsunsoft/docker.ui
 #汉化版portainer-ce,已停更
 6053537/portainer-ce
+#几个AI大模型
+1panel/maxkb
+ollama/ollama
+ollamawebui/ollama-webui
+chatgptweb/chatgpt-web
