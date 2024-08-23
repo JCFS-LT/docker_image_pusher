@@ -17,3 +17,5 @@ joinsunsoft/docker.ui
 ollama/ollama
 ollamawebui/ollama-webui
 chatgptweb/chatgpt-web
+#知识库
+atlassian/confluence
