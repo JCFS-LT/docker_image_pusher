@@ -21,5 +21,3 @@ chatgptweb/chatgpt-web
 atlassian/confluence
 #数据库
 mysql
-bitnami/postgresql
-oraclelinux
