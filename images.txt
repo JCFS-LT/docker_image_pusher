@@ -22,6 +22,5 @@ atlassian/confluence
 #数据库
 mysql
 bitnami/postgresql
-oraclelinux
 #clash
 centralx/clash
